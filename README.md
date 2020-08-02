@@ -1,4 +1,4 @@
-### Hi there, I'm [Jelo][website] 👋
+### Hi there, I'm [Jelo][twitter] 👋
 
 ## I'm a C# Developer!
 - I’m currently learning JS
