@@ -12,11 +12,17 @@
 [<img align="left" alt="JeloLeaks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JeloDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterdevacc]
 
-<br />
+<br/>
+### My Projects:
 
+[![TTS Chat For Twitch](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=github-readme-stats&theme=dracula)](https://github.com/JeloLeaks/TTS-Chat-For-Twitch)
+
+[![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=github-readme-stats&theme=dracula)](https://github.com/JeloLeaks/Pog-Twitter)
+
+<br/>
 ---
 
-<img align="left" alt="JeloLeaks's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&hide_border=true" />
+<img align="left" alt="JeloLeaks's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&hide_border=true&theme=dracula" />
 
 [website]: https://jelo.dev
 [youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
