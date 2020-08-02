@@ -23,3 +23,4 @@
 [website]: https://jelo.dev
 [twitter]: https://twitter.com/JeloLeaks
 [twitterdevacc]: https://twitter.com/JeloDev
+[youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
