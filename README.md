@@ -14,7 +14,7 @@
 
 <br/>
 
-### My Projects:
+### My projects:
 
 [![TTS Chat For Twitch](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=tts-chat-for-twitch&theme=dracula)](https://github.com/JeloLeaks/TTS-Chat-For-Twitch)
 
