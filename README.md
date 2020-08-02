@@ -13,11 +13,12 @@
 [<img align="left" alt="JeloDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterdevacc]
 
 <br/>
+
 ### My Projects:
 
-[![TTS Chat For Twitch](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=github-readme-stats&theme=dracula)](https://github.com/JeloLeaks/TTS-Chat-For-Twitch)
+[![TTS Chat For Twitch](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=tts-chat-for-twitch&theme=dracula)](https://github.com/JeloLeaks/TTS-Chat-For-Twitch)
 
-[![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=github-readme-stats&theme=dracula)](https://github.com/JeloLeaks/Pog-Twitter)
+[![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=pog-twitter&theme=dracula)](https://github.com/JeloLeaks/Pog-Twitter)
 
 <br/>
 ---
