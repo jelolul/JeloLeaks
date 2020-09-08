@@ -16,8 +16,7 @@
 
 ### My projects:
 
-[TTS Chat For Twitch has been privated since it's broken]
-[![TTS Chat For Twitch](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=tts-chat-for-twitch&theme=dracula&hide_border=true)](https://github.com/JeloLeaks/TTS-Chat-For-Twitch)
+TTS Chat For Twitch has been privated since it's broken
 
 [![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=pog-twitter&theme=dracula&hide_border=true)](https://github.com/JeloLeaks/Pog-Twitter)
 
