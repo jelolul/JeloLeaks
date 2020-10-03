@@ -18,7 +18,7 @@
 
 TTS Chat For Twitch has been privated since it's broken
 
-[![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=pog-twitter&theme=dracula&hide_border=true)](https://github.com/JeloLeaks/Pog-Twitter)
+[![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=JeloLeaks&repo=pog-twitter&theme=dracula&hide_border=true)](https://github.com/Jelodev/Pog-Twitter)
 
 <br/>
 
