@@ -16,9 +16,9 @@
 
 ### My projects:
 
-TTS Chat For Twitch has been privated since it's broken
-
 [![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=Jelodev&repo=pog-twitter&theme=dracula&hide_border=true)](https://github.com/Jelodev/Pog-Twitter)
+
+**Pog Twitter** is **broken.**
 
 <br/>
 
