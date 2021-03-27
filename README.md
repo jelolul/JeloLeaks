@@ -2,8 +2,8 @@
 
 ## I'm a C# Developer!
 - I’m currently learning JS
-- I’m looking to collaborate with other content creators PogU
-- Fun fact: this is yoinked LULW 
+- I’m looking to collaborate with other devs
+- Fun fact: this is yoinked
 
 ### Where you can find me:
 
