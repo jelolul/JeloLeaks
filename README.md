@@ -23,9 +23,6 @@ My Stats:
 
 <img align="left" alt="JeloLeaks's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&hide_border=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeloleaks)]
-
-
 [youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
 [twitter]: https://twitter.com/JeloLeaks
 [twitterdev]: https://twitter.com/JeloDev
