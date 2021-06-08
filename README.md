@@ -1,32 +1,29 @@
 ### Hi there, I'm [Jelo][twitter] 👋
 
-## I'm a C# Developer!
-- I’m currently learning JS
-- I’m looking to collaborate with other devs
-- Fun fact: this is yoinked
+## I'm a Full Stack C# Developer!
+- I’m learning C++ when I feel like it
+- I’m looking to collaborate with other developers
+- Fun Fact: you are reading this right now
 
 ### Where you can find me:
 
-[<img align="left" alt="jelo.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="Jelo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JeloLeaks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterdevacc]
+[<img align="left" alt="Jelo | YouTube" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png" />][youtube]
+[<img align="left" alt="JeloLeaks | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitter]
+[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitterdev]
 
 <br/>
 
 ### My projects:
 
-[![Pog Twitter](https://github-readme-stats.vercel.app/api/pin/?username=Jelodev&repo=pog-twitter&theme=dracula&hide_border=true)](https://github.com/Jelodev/Pog-Twitter)
-
-**Pog Twitter** is **broken.**
+No projects at the moment.
 
 <br/>
 
 ---
+My Stats:
 
 <img align="left" alt="JeloLeaks's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&hide_border=true&theme=dracula" />
 
-[website]: https://jelo.dev
 [youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
 [twitter]: https://twitter.com/JeloLeaks
-[twitterdevacc]: https://twitter.com/JeloDev
+[twitterdev]: https://twitter.com/JeloDev
