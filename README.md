@@ -8,7 +8,6 @@
 ### Where you can find me:
 
 [<img align="left" alt="Jelo | YouTube" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png" />][youtube]
-[<img align="left" alt="JeloLeaks | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitter]
 [<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitterdev]
 
 <br/>
