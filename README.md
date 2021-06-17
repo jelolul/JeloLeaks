@@ -1,7 +1,6 @@
 ### Hi there, I'm [Jelo][twitter] 👋
 
 ## I'm a Full Stack C# Developer!
-- I’m learning C++ when I feel like it
 - I’m looking to collaborate with other developers
 - Fun Fact: you are reading this right now
 
