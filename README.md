@@ -20,7 +20,7 @@ No projects at the moment.
 ---
 My Stats:
 
-<img align="left" alt="JeloLeaks's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF" />
 
 [youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
 [twitter]: https://twitter.com/JeloLeaks
