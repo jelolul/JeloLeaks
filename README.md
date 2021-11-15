@@ -1,7 +1,7 @@
 ## Hi there, I'm [Jelo][twitter] 👋
 
 - I'm a Full Stack C# Developer!
-- I’m looking to collaborate with other developers!
+- I’m looking forward to collaborate with other developers!
 
 ## Where you can find me:
 
