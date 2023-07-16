@@ -5,8 +5,9 @@
 
 ## Where you can find me:
 
-[<img align="left" alt="Jelo | YouTube" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png" />][youtube]
-[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitterdev]
+[<img align="left" alt="Jelo | YouTube" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png" />][youtube] YouTube
+
+[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitterdev] Twitter
 
 <br/>
 
@@ -19,7 +20,7 @@ No projects at the moment.
 ---
 
 <p align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeloLeaks&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF"/>
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jelolul&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF"/>
 </p>
 
 [youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
