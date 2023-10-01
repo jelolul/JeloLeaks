@@ -5,9 +5,9 @@
 
 ## Where you can find me:
 
-[<img align="left" alt="Jelo | YouTube" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png" />][youtube] YouTube
+[<img align="left" alt="Jelo | YouTube" width="32px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png"/>][youtube] 
 
-[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitter] Twitter
+[<img align="left" alt="JeloDev | Twitter" width="24px" src="https://raw.githubusercontent.com/jelolul/jelolul/master/assets/logo.svg" />][twitter]
 
 <br/>
 
