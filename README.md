@@ -1,13 +1,13 @@
 ## Hi there, I'm [Jelo][twitter] 👋
 
-- I'm a Full Stack C# Developer!
+- I'm a C# Developer!
 - I’m looking forward to collaborate with other developers!
 
 ## Where you can find me:
 
 [<img align="left" alt="Jelo | YouTube" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/youtube-logo.png" />][youtube] YouTube
 
-[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitterdev] Twitter
+[<img align="left" alt="JeloDev | Twitter" width="22px" src="https://raw.githubusercontent.com/JeloLeaks/JeloLeaks/master/assets/twitter.png" />][twitter] Twitter
 
 <br/>
 
@@ -24,5 +24,4 @@ No projects at the moment.
 </p>
 
 [youtube]: https://www.youtube.com/channel/UCmJCcAK-eOysMduQAGfIEKA/
-[twitter]: https://twitter.com/JeloLeaks
-[twitterdev]: https://twitter.com/JeloDev
+[twitter]: https://twitter.com/jelolul
