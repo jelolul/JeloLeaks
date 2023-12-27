@@ -1,4 +1,4 @@
-! Title: YouTube Recommendations Fix
+! Title: Jelo's YouTube Recommendations "Fix"
 ! Last modified: %timestamp%
 ! Expires: 12 hours
 ! Description: Removes random videos under 1K views from the sidebar & homepage
