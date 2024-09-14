@@ -84,7 +84,7 @@ body {
 }
 
 .TypeLabel {
-  width: 330px;
+  width: max-content;
   color: #d1d7ff;
   font-size: 24px;
   font-weight: 700;
