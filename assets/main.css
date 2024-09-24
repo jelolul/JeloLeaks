@@ -1,111 +1,111 @@
 @import url("https://cdn.streamelements.com/scripts/animate.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 body {
-  font-family: "Inter", sans-serif;
+	font-family: "Inter", sans-serif;
 }
 
 .text-container {
-  text-align: right;
-  margin: auto;
-  padding-top: 20px;
-  padding-right: 20px;
+	text-align: right;
+	margin: auto;
+	padding-top: 20px;
+	padding-right: 20px;
 }
 
 .cheermote-1,
 .alertbox-message-emote {
-  height: 24px !important;
-  width: 24px !important;
+	height: 24px !important;
+	width: 24px !important;
 }
 
 .AlertType {
-  align-self: stretch;
-  height: 50px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 0px;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 10px;
-  display: inline-flex;
+	align-self: stretch;
+	height: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 10px;
+	display: inline-flex;
 }
 
 .AlertContainer {
-  width: 500px;
-  height: max-content;
-  max-height: 300px;
-  background: linear-gradient(0deg, #1a1920 0%, #1a1920 100%),
-    linear-gradient(122deg, rgba(0, 0, 0, 0) 16%, black 100%);
-  box-shadow: 0px 0px 9px rgba(26, 25, 32, 0.5);
-  border-radius: 25px;
-  overflow: hidden;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  display: inline-flex;
+	width: 500px;
+	height: max-content;
+	max-height: 300px;
+	background: #1a1920;
+	box-shadow: 0px 0px 9px rgba(26, 25, 32, 0.5);
+	border-radius: 8px;
+	/* transform: skew(-20deg, 0); */
+	overflow: hidden;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	display: inline-flex;
 }
 
 .AlertLabel {
-  color: #d1d7ff;
-  font-size: 24px;
-  font-weight: 900;
-  word-wrap: break-word;
+	color: #d1d7ff;
+	font-size: 24px;
+	/* font-weight: 900; */
+	word-wrap: break-word;
 }
 
 .InfoContainer {
-  align-self: stretch;
-  height: max-content;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 10px;
-  display: flex;
+	align-self: stretch;
+	height: max-content;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	gap: 10px;
+	display: flex;
 }
 
 .UsernameContainer {
-  align-self: stretch;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 5px;
-  display: inline-flex;
-  flex-wrap: wrap;
+	align-self: stretch;
+	justify-content: flex-start;
+	align-items: flex-start;
+	gap: 5px;
+	display: inline-flex;
+	flex-wrap: wrap;
 }
 
 .UsernameLabel {
-  width: max-content;
-  color: #4f65ff;
-  font-size: 24px;
-  font-weight: 700;
-  word-wrap: break-word;
+	width: max-content;
+	color: #4f65ff;
+	font-size: 24px;
+	font-weight: 700;
+	word-wrap: break-word;
 }
 
 .TypeLabel {
-  width: max-content;
-  color: #d1d7ff;
-  font-size: 24px;
-  font-weight: 700;
-  text-align: left;
+	width: max-content;
+	color: #d1d7ff;
+	font-size: 24px;
+	font-weight: 700;
+	text-align: left;
 }
 
 .MessageContainer {
-  align-self: stretch;
-  justify-content: flex-start;
-  align-items: left;
-  gap: 10px;
-  display: inline-flex;
+	align-self: stretch;
+	justify-content: flex-start;
+	align-items: left;
+	gap: 10px;
+	display: inline-flex;
 }
 
 .MessageLabel {
-  width: 100%;
-  color: #d1d7ff;
-  font-size: 24px;
-  font-weight: 400;
-  text-overflow: ellipsis;
-  white-space: wrap;
-  overflow: hidden;
-  text-align: left;
+	width: 100%;
+	color: #d1d7ff;
+	font-size: 24px;
+	font-weight: 400;
+	text-overflow: ellipsis;
+	white-space: wrap;
+	overflow: hidden;
+	text-align: left;
 }
